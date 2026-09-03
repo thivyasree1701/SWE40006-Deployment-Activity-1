@@ -1,0 +1,14 @@
+.vs/
+**/bin/
+**/obj/
+
+*.exe
+*.dll
+*.msi
+*.wixpdb
+*.cab
+*.pdb
+
+*.user
+*.suo
+*.cache
